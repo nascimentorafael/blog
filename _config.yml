@@ -1,16 +1,14 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
+title: rafa nascimento
+description: TBD2
+author: "Rafa Nascimento"
 
 theme: minima
 
-base_url: /gh-pages-minima-starter
+base_url: /blog
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
-rss: rss
+github_username: nascimentorafael
+linkedin_username: rafaellnascimentoo
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
@@ -22,7 +20,6 @@ minima:
 header_pages:
   - _pages/frontpage.md
   - _pages/about.md
-  - _pages/archive.md
 
 include:
     - _pages
